@@ -163,3 +163,4 @@ cython_debug/
 sentence_ru_cased_L-12_H-768_A-12_pt
 lenta-ru-news.csv
 sentence_multi_cased_L-12_H-768_A-12_pt_v1
+.vscode
